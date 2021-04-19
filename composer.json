@@ -1,0 +1,12 @@
+{
+    "name": "lfq/package_test",
+    "description": "my package test",
+    "type": "library",
+    "require": {},
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Mytest\\": "src"
+        }
+    }
+}
